@@ -6,7 +6,7 @@ Designed a memory manager for a new multitasking OS. The memory manager will all
 3. A process may request N blocks of memory at any point that it is alive 
 4. A process may free previously allocated blocks of memory at any point in its lifetime.<br/>
 <br/>
-The available commands & their formats are described below: <br/>
+The available commands and their formats are described below: <br/>
 1. allocate <br/>
 allocate &lt;process_name> &lt;variable_name> &lt;blocks-requested> <br/>
 2. free <br/>
